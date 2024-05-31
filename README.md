@@ -1,2 +1,3 @@
 # Handwritten-English-Character-Recognition-
-![Alt Text](demo2.jpeg)
+![The application predicts the character using three different models](demo1.jpeg)
+![The application displays the sentence created](demo2.jpeg)
