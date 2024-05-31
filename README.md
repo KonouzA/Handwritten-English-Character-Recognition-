@@ -44,8 +44,8 @@ Copy codepip install -r requirements.txt
 ### Usage
 
 Prepare the dataset by downloading the EMNIST Balanced dataset (the training set has not been included due to its large size, you can download it here: [EMNIST Dataset]([url](https://www.kaggle.com/datasets/crawford/emnist))) and placing the files in the appropriate directory.
-Run the main.py script to train and evaluate the models:
-Copy codepython main.py
+Run the GUI&MODELS.py script to train and evaluate the models:
+Copy codepython GUI&MODELS.py
 
 The script will preprocess the data, train the models, and display the results, including accuracy scores and predictions.
 You can also use the provided graphical user interface (GUI) to draw characters and obtain predictions from the trained models.
