@@ -1,8 +1,9 @@
 # Handwritten-English-Character-Recognition-
+This project aims to build and compare three different machine learning models for handwritten character recognition: Random Forest, Artificial Neural Network (ANN), and Convolutional Neural Network (CNN). The models are trained on the EMNIST Balanced dataset, which is a balanced version of the EMNIST dataset with an equal number of samples per class.
 ![The application predicts the character using three different models](demo1.jpeg)
 ![The application displays the sentence created](demo2.jpeg)
 
-This project aims to build and compare three different machine learning models for handwritten character recognition: Random Forest, Artificial Neural Network (ANN), and Convolutional Neural Network (CNN). The models are trained on the EMNIST Balanced dataset, which is a balanced version of the EMNIST dataset with an equal number of samples per class.
+
 
 ## Table of Contents
 
@@ -34,7 +35,7 @@ The project implements three different machine learning models for handwritten c
 ### Installation
 
 Clone the repository:
-Copy codegit clone https://github.com/your-username/handwritten-character-recognition.git
+Copy codegit clone https://github.com/KonouzA/Handwritten-English-Character-Recognition-.git
 
 Install the required dependencies:
 Copy codepip install -r requirements.txt
